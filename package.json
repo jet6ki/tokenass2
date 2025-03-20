@@ -3,6 +3,24 @@
     "start": "servor --reload"
   },
   "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
     "servor": "^4.0.2"
-  }
+  },
+  "name": "tokenass2",
+  "version": "1.0.0",
+  "description": "- Learn to generate a JWT (JSON Web Token) with an expiration time to enhance the security of your full-stack applications.",
+  "main": "script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jet6ki/tokenass2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jet6ki/tokenass2/issues"
+  },
+  "homepage": "https://github.com/jet6ki/tokenass2#readme"
 }
